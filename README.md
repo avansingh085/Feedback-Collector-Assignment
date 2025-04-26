@@ -6,7 +6,7 @@ A sleek, modern feedback collection web app that allows users to submit and view
 
 ## ✨ Live Demo
 
-**Netlify Deployment Link:** [https://feedback-collector-assignment.vercel.app](https://feedback-collector-assignment.vercel.app)
+**Vercel Deployment Link:** [https://feedback-collector-assignment.vercel.app](https://feedback-collector-assignment.vercel.app)
 
 ---
 
