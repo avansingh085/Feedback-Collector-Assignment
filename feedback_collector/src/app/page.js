@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import FeedbackForm from "../components/FeedbackForm";
+import FeedbackForm from "./components/FeedbackForm";
 
 export default function Home() {
   const [theme, setTheme] = useState('light');
