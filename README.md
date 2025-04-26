@@ -14,7 +14,6 @@ A sleek, modern feedback collection web app that allows users to submit and view
 
 **GitHub Link:** [https://github.com/avansingh085/Feedback-Collector-Assignment](https://github.com/avansingh085/Feedback-Collector-Assignment)
 
-_(Make sure the repo has clean, meaningful commit messages and public access.)_
 
 ---
 
@@ -66,11 +65,6 @@ Visit `http://localhost:3000`
 
 ---
 
-## 🌐 Footer Credit
-
-> Made with ❤️ by **Avan Singh** - Candidate Task Submission.
-
-The credit is displayed in the footer of the live site as a watermark.
 
 ---
 
@@ -79,11 +73,4 @@ The credit is displayed in the footer of the live site as a watermark.
 - Add admin dashboard to manage feedbacks.
 - Add authentication and email notification services.
 - Improve accessibility (a11y) for all users.
-
----
-
-## 💜 Thank you for visiting!
-Feel free to fork, contribute, and star the repo if you like it.
-
----
 
